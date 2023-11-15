@@ -10,7 +10,7 @@ Warren E. Roberts was a prominent folklorist throughout the 20th centruy. He was
 
 The finding aid for the collection can be found here: [Indiana University Archive](https://archives.iu.edu/html/InU-Ar-VAA9415.html)
 
-Digital exhibition: 
+Digital exhibition: [Warren E. Roberts Museum of Early Indiana Life](https://wer.sitehost.iu.edu/index.shtml)
 ## Further Resources
 
 Hollybush
