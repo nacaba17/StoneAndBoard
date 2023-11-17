@@ -18,7 +18,8 @@ The finding aid for the collection can be found here: [Indiana University Archiv
 
 ## About the Technical Standards
 The work in this site followed a variety of technical standards. For the representation of dates and geographic coordinates, ISO standard formatting was used. All materials were scanned on an archival quality flatbed Epson Scanner. The metadata fields used to described the materials are pulled from the required CollectionBuilder fields, Dublin Core standards, and customized fields in order to appropriately describe the materials and to provide the appropriate archival citation. 
-The metadata was largely pulled directly from the archival descriptions and the contextual information within the materials themselves. The primary exception is the architectural terms, which I used standardized terms from the (Getty Art & Architecture Thesaurus)[https://www.getty.edu/research/tools/vocabularies/aat/] 
+The metadata was largely pulled directly from the archival descriptions and the contextual information within the materials themselves. The primary exception is the architectural terms, which I used standardized terms from the [Getty Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/).
+
 ## Aboout the People
 This site is created by Alex Caba. As of creating this site, she is at Indiana University getting her Masters in Library Science, with a concentration in Rare Books and Manuscripts. This collection was created as part of the course Z652 Digital Libraries, taught by John Walsh with Assistant Instructor Alex Wingate. 
 
