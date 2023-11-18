@@ -20,10 +20,11 @@ The finding aid for the collection can be found here: [Indiana University Archiv
 The work in this site followed a variety of technical standards. For the representation of dates and geographic coordinates, ISO standard formatting was used. All materials were scanned on an archival quality flatbed Epson Scanner. The metadata fields used to described the materials are pulled from the required CollectionBuilder fields, Dublin Core standards, and customized fields in order to appropriately describe the materials and to provide the appropriate archival citation. 
 The metadata was largely pulled directly from the archival descriptions and the contextual information within the materials themselves. The primary exception is the architectural terms, which I used standardized terms from the [Getty Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/).
 
-## Aboout the People
-This site is created by Alex Caba. As of creating this site, she is at Indiana University getting her Masters in Library Science, with a concentration in Rare Books and Manuscripts. This collection was created as part of the course Z652 Digital Libraries, taught by John Walsh with Assistant Instructor Alex Wingate. 
+## About the People
+This site is created by Alex Caba. As of creating this site, I am at Indiana University getting her Masters in Library Science, with a concentration in Rare Books and Manuscripts. I have lived in many places in my lifetime but I consider Kentucky to be my home. This collection is in part an homage to time spent wandering kentucky farms and forests, finding old structures and imagining what they once were. 
+This collection was created as part of the course Z652 Digital Libraries, taught by John Walsh with Assistant Instructor Alex Wingate. 
 
-The creation of this site would also not have been possible without the assistance of Indiana University Archives, in particuarly Katherine Morrison. 
+The creation of this site would also not have been possible without the assistance of [Indiana University Archives](https://libraries.indiana.edu/university-archives), in particuarly Katherine Morrison. 
 
 ## About the Platform
 
