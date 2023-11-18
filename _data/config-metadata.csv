@@ -6,6 +6,7 @@ datedigitized,Date Digitized
 description,Description,
 subject,Subjects,true
 location,Location
+locatedin,Located Within
 latitude,Latitude
 longitude,Longitude
 format,Format,
