@@ -3,7 +3,7 @@ title: Historical Context
 layout: about
 permalink: /historicalcontext.html
 ---
-{% include feature/image.html objectid="020" width="75" %} 
+{% include feature/image.html objectid="020" width="50" %} 
 {% include feature/nav-menu.html sections="Warren E. Roberts; Further Resources" %}
 
 ## Warren E. Roberts, 1924-1999
@@ -18,8 +18,9 @@ Additionally, many of his Indiana materials, and the intent of his academic work
 ## Further Resources
 
 ### Hollybush: 
+{% include feature/image.html objectid="031" width="50" %} 
 
-Some of the materials in this collection relate to a location in Kentucky known as Head of Hollybush, a small community located in a Kentucky mountain holler but was abandoned in about the 1940s.    
+Some of the materials in this collection relate to a location in Kentucky known as Head of Hollybush, a small community located in a Kentucky mountain holler in Knott County, but was abandoned in about the 1940s.    
 
 The photographs, maps, and letter all came to Roberts from "Chip" or Charles E. Martin, contacting Roberts about the work he was doing in relation to the history of the settlement. The result of that work can be seen in this 1981 article written by Martin:  
 
