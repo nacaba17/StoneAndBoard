@@ -28,11 +28,9 @@ Martin, Charles E. “Head of Hollybush: Reconstructing Material Culture Through
 
 {% include feature/button.html text="All Hollybush materials in this collection can be found here" link="https://nacaba17.github.io/StoneAndBoard/browse.html#hollybush" color="success" %}
 
-
+### Established Parks and Locations
 There are also several parts of this collection which relate to folklife museums or established historial buildings within state parks in Kentucky. 
 
-There are those which depict buildings in and information on the Museum of Mountain Life  
+There are those which depict buildings in and information on the Museum of Mountain Life, which is located within the Levi Jackson Wilderness Park. More information can be found about the museum here: [Museum of Mountain Life](https://www.explorekywildlands.com/listing/mountain-life-museum/853/)
 
-
-
-gravestone projects
+The 4-H Craft Camp buildings are located within "Falls State Park", more commonly known as Cumberland Falls State Park. Robert's labeling of the photographs of these buildings say "Lumberland" but that may have been a transcription mistake. More information about Cumberland Falls State Park can be found here: [Cumberland Falls](https://www.kentuckytourism.com/things-to-do/outdoors/natural-attractions/cumberland-falls)
