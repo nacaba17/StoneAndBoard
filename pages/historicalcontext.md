@@ -3,7 +3,7 @@ title: Historical Context
 layout: about
 permalink: /historicalcontext.html
 ---
-{% include feature/image objectid="020" %} 
+{% include feature/image.html objectid="020" %} 
 {% include feature/nav-menu.html sections="Warren E. Roberts; Further Resources" %}
 
 ## Warren E. Roberts, 1924-1999
