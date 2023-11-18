@@ -16,7 +16,7 @@ Additionally, many of his Indiana materials, and the intent of his academic work
 
 ## Further Resources
 
-# Hollybush: 
+### Hollybush: 
 
 Some of the materials in this collection relate to a location in Kentucky known as Head of Hollybush, a small community located in a Kentucky mountain holler but was abandoned in about the 1940s.    
 
