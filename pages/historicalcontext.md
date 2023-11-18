@@ -14,7 +14,7 @@ More information about Roberts and his work can be found in the Indiana Universi
 
 Additionally, many of his Indiana materials, and the intent of his academic work, have been digitally collected and contextualized by the Indiana University Department of Folklore and Ethnomusicology: [Warren E. Roberts Museum of Early Indiana Life](https://wer.sitehost.iu.edu/index.shtml)
 
- ## Further Resources
+## Further Resources
 
 # Hollybush: 
 
@@ -22,7 +22,7 @@ Some of the materials in this collection relate to a location in Kentucky known 
 
 The photographs, maps, and letter all came to Roberts from "Chip" or Charles E. Martin, contacting Roberts about the work he was doing in relation to the history of the settlement. The result of that work can be seen in this 1981 article written by Martin:  
 
-Martin, Charles E. “Head of Hollybush: Reconstructing Material Culture Through Oral History.” Pioneer America 13, no. 1 (1981): 3–16. http://www.jstor.org/stable/29763613. 
+Martin, Charles E. “Head of Hollybush: Reconstructing Material Culture Through Oral History.” Pioneer America 13, no. 1 (1981): 3–16. [JSTOR link](http://www.jstor.org/stable/29763613).
 
 [Link Hollybush Materials?] 
 
@@ -31,6 +31,6 @@ There are also several parts of this collection which relate to folklife museums
 
 There are those which depict buildings in and information on the Museum of Mountain Life  
 
-Hollybush
+
 
 gravestone projects
